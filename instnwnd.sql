@@ -1,4 +1,4 @@
-﻿SET NOCOUNT ON
+SET NOCOUNT ON
 GO
 
 USE master
